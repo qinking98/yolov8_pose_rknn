@@ -929,4 +929,4 @@ if __name__ == '__main__':
 source activate Rknn_Toolkit_lite2_Py3.9
 cd /data00/aWinDir/D/dotnet/py_project/rknn-toolkit2-2.3.2/rknn-toolkit-lite2/yolov8_pose_rknn/
 '''
-#
+##
